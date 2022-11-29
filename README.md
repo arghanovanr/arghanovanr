@@ -18,11 +18,11 @@ Frontend Web Developement enthusiast <br />
 *React.js <br />
 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on <br />
 Frontend Project Movie Subscription Website Page <br />
 
 
-- 📫 How to reach me: 
+- 📫 How to reach me: <br />
 Linkedin : https://www.linkedin.com/in/argha-novan-rosiansiesha-707511218/ <br />
 Email    : arghanovanr@gmail.com <br />
 
