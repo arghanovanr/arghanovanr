@@ -19,7 +19,7 @@ Frontend Web Developement enthusiast <br />
 
 
 - 🔭 I’m currently working on <br />
-Frontend Project Movie Subscription Website Page <br />
+Frontend Project with React.js Library
 
 
 - 📫 How to reach me: <br />
