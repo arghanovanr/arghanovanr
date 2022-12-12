@@ -5,7 +5,7 @@ Frontend Web Developement enthusiast <br />
 
 
 
-- what i have learned
+- what i have learned <br />
 *HTML <br />
 *CSS <br />
 *Javascrip <br />
@@ -13,7 +13,7 @@ Frontend Web Developement enthusiast <br />
 *Kotlin <br />
 *UI/UX <br />
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning <br />
 *Backend such as Node.js and Express <br />
 *React.js <br />
 
