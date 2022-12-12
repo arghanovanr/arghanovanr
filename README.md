@@ -16,11 +16,12 @@ Frontend Web Developement enthusiast <br />
 - 🌱 I’m currently learning <br />
 *Backend such as Node.js and Express <br />
 *React.js <br />
+*Laravel <br />
 
 
 - 🔭 I’m currently working on <br />
 Frontend Project with React.js Library
-
+Full stack website with Laravel and React.js
 
 - 📫 How to reach me: <br />
 Linkedin : https://www.linkedin.com/in/argha-novan-rosiansiesha-707511218/ <br />
