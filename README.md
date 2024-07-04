@@ -3,7 +3,7 @@
 I am an IT Developer 
 
 - 📫 How to reach me: <br />
-Linkedin : https://www.linkedin.com/in/argha-novan-rosiansiesha-707511218/ <br />
+Linkedin : https://www.linkedin.com/in/arghanovanr <br />
 Email    : arghanovanr@gmail.com <br />
 
 
